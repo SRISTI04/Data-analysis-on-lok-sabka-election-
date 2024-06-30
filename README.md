@@ -1,4 +1,6 @@
 Project Description: Lok Sabha Election Results Analysis
+
+
 This project involves scraping and analyzing the results of the recently concluded Lok Sabha election from the official Election Commission of India website. The primary objectives are:
 
 Data Collection: Scraping detailed election results data, including seat distribution, party performance, and regional variations.
